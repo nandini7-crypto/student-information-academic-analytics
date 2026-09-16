@@ -1,0 +1,16 @@
+Student_ID,Name,Gender,Department,Attendance,Python,SQL,ML,Final_Mark
+S001,Olivia,Female,BCA,92,85,78,82,84
+S002,Ethan,Male,BCA,76,72,68,70,71
+S003,Sophia,Female,BCA,88,91,86,89,90
+S004,Daniel,Male,BCA,65,60,55,62,59
+S005,Emma,Female,BCA,95,88,92,94,91
+S006,Liam,Male,BCA,81,79,74,77,76
+S007,Chloe,Female,BCA,90,84,89,87,88
+S008,Noah,Male,BCA,70,66,61,65,64
+S009,Ava,Female,BCA,86,80,83,81,82
+S010,Lucas,Male,BCA,78,73,70,75,72
+S011,Mia,Female,BCA,93,95,90,92,94
+S012,James,Male,BCA,68,58,63,60,61
+S013,Grace,Female,BCA,89,87,85,88,87
+S014,Ryan,Male,BCA,74,69,72,67,69
+S015,Emily,Female,BCA,97,93,95,96,95
