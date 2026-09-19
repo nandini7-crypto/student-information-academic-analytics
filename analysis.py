@@ -132,3 +132,6 @@ plt.ylabel("Final Mark")
 
 plt.tight_layout()
 plt.show()
+
+print("\n===== ANALYSIS COMPLETED =====")
+print("Student academic and attendance analysis completed successfully.")
