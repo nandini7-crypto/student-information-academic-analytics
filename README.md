@@ -184,6 +184,25 @@ The original student dataset is stored as a CSV file and is used as the source f
 
 ---
 
+## 📸 Application Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Subject Performance
+
+![Subject Performance](screenshots/subject-performance.png)
+
+### Attendance vs Final Mark
+
+![Attendance vs Final Mark](screenshots/attendance-analysis.png)
+
+### Student Records
+
+![Student Records](screenshots/student-records.png)
+
+
 ## 🚀 Future Improvements
 
 Possible future enhancements include:
